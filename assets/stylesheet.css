@@ -755,3 +755,12 @@ a.back-to-top:hover { color:#fff;background:rgba(0,0,0,0.35);}
 .btn-center {
 	text-align: center;
 }
+.first-three-block {
+	padding: 10px 0 0 0;
+}
+span.intro-block-glyph {
+	 font-size: 2.2em;
+	 padding: 0 0 0 106px;
+	 color: red;
+
+}
